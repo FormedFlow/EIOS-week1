@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "/*": {
+      "X-Author": "FormedFlow",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}
